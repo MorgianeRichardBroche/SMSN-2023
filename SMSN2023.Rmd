@@ -69,16 +69,19 @@ knitr::include_graphics("proofs.png")
 
 .green[**Co-creation pedagogy**]
   - including student in the design of the curriculum
-  
+    - student-centered pedagogic approach
+
+--
 
 .green[**Use of examples in mathematical education**]
   - benefits of doing and creating examples and counter-examples
+    - participate to the construction of _concept image_
 
 ---
 
 # Linear Algebra Course
 
-.green[**Could we use co-creation to help transition to level 2 mathematics courses?**]
+.center[.green[**Could we use co-creation to help transition to level 2 mathematics courses?**]]
 
 --
 
@@ -106,8 +109,12 @@ knitr::include_graphics("proofs.png")
 --
 
 - .green[Intention was to collect feedback on experience of co-creation in groups:]
-  - impact on motivation and confidence in linear algebra;
+  - impact on motivation and confidence in linear algebra using questionnaires and interview;
   - impact on marks.
+  
+--
+
+Due to PGCert timeline, the ethics application was only completed at the end of November 2022.
   
 ---
 
@@ -163,7 +170,7 @@ GMJT proposal with Emma Coutts for pair-work and for analysis of benfits of stud
 
 --
 
-Run the activity again alongside Linear Algebra I.
+Run the activity again alongside Linear Algebra I: create discipline-specific examples.
 
 --
 
@@ -172,3 +179,11 @@ Investigate the possibility of organising similar activities for Analysis.
 --
 
 ![](existence_proof.png)
+
+---
+class: middle, center
+
+# Thanks for listening !
+
+`r fontawesome::fa("face-smile")`
+
